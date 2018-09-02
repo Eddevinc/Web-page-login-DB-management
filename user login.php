@@ -1,5 +1,10 @@
+// user login using php_check_syntax
+
+
 <?php include('server.php') ?>
 <!DOCTYPE html>
+
+// html starts(web ui)
 <html>
 <head>
   <title>Registration system PHP and MySQL</title>
@@ -29,3 +34,5 @@
   </form>
 </body>
 </html>
+
+// final commit code works
